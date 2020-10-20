@@ -22,3 +22,6 @@ $git show "identificação" //mostra várias informações
 
 --------------------------------------Diff--------------------------------------------------------
 Comando $ git diff //ver exatamente o que foi modificado
+$ git diff --name-only //mostra apenas o nome dos arquivos modificados
+
+
