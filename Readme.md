@@ -20,3 +20,5 @@ $git log --graphic //mostra em graficos
 
 $git show "identificação" //mostra várias informações
 
+--------------------------------------Diff--------------------------------------------------------
+Comando $ git diff //ver exatamente o que foi modificado
